@@ -256,7 +256,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // ===================================================
   const galleryImages = Array.from(
     { length: 32 },
-    (_, i) => `/images/Projects/${i + 1}.jpeg`
+    (_, i) => `images/Projects/${i + 1}.jpeg`
   );
 
   let currentGalleryIndex = 0;
