@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       title: "Solar Fencing",
-      image: "images/services/solar-fencing.jpg",
+      image: "../images/services/solar-fencing.jpg",
       info: "Secure your property the smart way. Solar fencing offers a safe, durable, and cost-effective solution to protect your land, crops, or property without depending on grid power.",
       icon: "fas fa-bolt",
     },
